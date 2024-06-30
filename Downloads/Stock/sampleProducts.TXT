@@ -1,0 +1,27 @@
+1/Taski R7 Chemical (5L)/4/₹ 850/2021-08-15/Cleaning/1|
+2/Taski R1 Chemical (5L)/3/₹ 850/2021-08-15/COVID Safety/1|
+3/Taski R2 Chemical (5L)/3/₹ 850/2021-08-15/Cleaning/1|
+4/Dettol Antiseptic (5L)/3/₹ 1,350/2021-08-15/Mopping/1|
+5/Soap Oil (5L)/3/₹ 125/2021-08-15/Cleaning/1|
+6/Phynail (5L)/3/₹ 125/2021-08-15/Toilet/1|
+7/Acid (5L)/3/₹ 130/2021-08-15/Cleaning/1|
+8/Colin (5L)/3/₹ 325/2021-08-15/Cleaning/1|
+9/Harpic (5L)/3/₹ 325/2021-08-15/Toilet/1|
+10/Fem (5L)/3/₹ 575/2021-08-15/COVID Safety/1|
+11/Hand Sanitizer (5L)/4/₹ 600/2021-08-15/COVID Safety/1|
+12/Chex Cloth Big/30/₹ 11/2021-08-15/Dusting/5|
+13/Yellow Cloth/30/₹ 10/2021-08-15/Dusting/5|
+14/Glass Cloth/20/₹ 12/2021-08-15/Dusting/5|
+15/Room Freshner Odonil/10/₹ 105/2021-08-15/Toilet/3|
+16/Savlon Disinfectant Spray (170g)/10/₹ 132/2021-08-15/Cleaning/3|
+17/HIT Spray Black Big/5/₹ 230/2021-08-15/Insect Control/2|
+18/Permanent Marker/20/₹ 16/2021-08-15/Stationary/3|
+19/Sodium Hypochlorite (5L)/3/₹ 250/2021-08-15/COVID Safety/1|
+20/Mop Stick Click-in-fit/10/₹ 150/2021-08-15/Mopping/2|
+21/Surf Excel Powder (1kg)/5/₹ 100/2021-08-15/COVID Safety/1|
+22/Mask/100/₹ 3/2021-08-15/COVID Safety/10|
+23/Soft Broom Monkey 555/10/₹ 75/2021-08-15/Dusting/2|
+24/Hard Broom/10/₹ 28/2021-08-15/Dusting/2|
+25/Garbage Bag Medium/5/₹ 25/2021-08-15/Garbage Collection/1|
+26/Urinal Cake/20/₹ 12/2021-08-15/Toilet/5|
+27/Everyday Cell AA/20/₹ 12/2021-08-15/Power/5

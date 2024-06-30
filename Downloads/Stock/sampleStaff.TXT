@@ -1,0 +1,24 @@
+1/Srikantha A/Male/null/Electrician/null/null/false|
+2/Shekar Gowda/Male/null/Electrician/null/null/false|
+3/Baswa D/Male/null/Electrician/null/null/false|
+4/Satish A/Male/null/Electrician/null/null/false|
+5/P.L Geru/Male/null/Plumber/null/null/false|
+6/Sushant Kumar B/Male/null/Plumber/null/null/false|
+7/V. Shilpa/Female/null/HouseKeeping/null/null/false|
+8/Veerabhadra/Male/null/Swimming Pool/null/null/false|
+9/Biswas/Male/null/Security/null/null/false|
+10/Tuku Dey/Male/null/Security/null/null/false|
+11/Neema/Female/null/Security/null/null/false|
+12/Shekarappa/Male/null/HouseKeeping/null/null/true|
+13/Nagappa/Male/null/HouseKeeping/null/null/true|
+14/Sharanappa/Male/null/HouseKeeping/null/null/true|
+15/Dhariyappa/Male/null/HouseKeeping/null/null/true|
+16/Ramana/Male/null/HouseKeeping/null/null/true|
+17/Prema/Female/null/HouseKeeping/null/null/true|
+18/Shivashankar/Male/null/HouseKeeping/null/null/true|
+19/Durgesh/Male/null/HouseKeeping/null/null/true|
+20/Anitha/Female/null/HouseKeeping/null/null/true|
+21/Vani/Female/null/HouseKeeping/null/null/true|
+22/Sharanamma/Female/null/HouseKeeping/null/null/true|
+23/Anjanamma/Female/null/HouseKeeping/null/null/true|
+24/Anjanamma.D/Female/null/HouseKeeping/null/null/true
